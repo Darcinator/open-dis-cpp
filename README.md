@@ -14,6 +14,9 @@ Open DIS uses [premake5](http://premake.github.io/) to build platform specific p
 1. Run `premake5 gmake`
 1. Run `make config=release`
 
+### GNU Makefile
+1. See Makefile for more info
+
 ### Windows
 
 1. Run `premake5 vs2015`
